@@ -1,0 +1,32 @@
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.m-20 {
+  margin: 20px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mr-15 {
+  margin-right: 15px;
+}
+
+.p-30 {
+  padding: 30px;
+}
+
+.center {
+  text-align: center;
+}
+
+input {
+  width: 320px !important;
+}
